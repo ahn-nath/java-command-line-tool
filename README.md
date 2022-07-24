@@ -127,7 +127,4 @@ In the future, the tool may be integrated with the TestRails API and follow the 
         - results: https://www.gurock.com/testrail/docs/api/reference/results/#addresults
     - Send processed data via the TestRail API.
 
-## License
-[To be defined]
-
 
